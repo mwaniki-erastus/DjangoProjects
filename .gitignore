@@ -7,3 +7,7 @@ db.sqlite3
 .env/
 media/
 staticfiles/
+djangoenv/
+venv/
+env/
+djangoprojects/
